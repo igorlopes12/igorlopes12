@@ -1,4 +1,4 @@
-## E ai! eu sou o Igor Lopes, estudante de Engenharia de Computação!
+## E ai! eu sou o Igor!
 <div align="center">
   <a href="https://github.com/igorlopes12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlopes12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
