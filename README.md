@@ -10,7 +10,7 @@
   <img align="center" alt="igor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="igor-pic" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/964265345575714838/991049977969147964/kj.gif">
+       src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
   
   ##
