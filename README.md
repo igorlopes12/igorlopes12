@@ -1,8 +1,8 @@
-## Hey, I'm Igor!
+## Hi, thanks for checking my profile!
 <div align="center">
   <a href="https://github.com/igorlopes12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlopes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlopes12&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlopes12&theme=ambient_gradient&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlopes12&layout=compact&langs_count=7&theme=ambient_gradient"/>
 </div>
 <div style="display: inline_block"><br>
 
@@ -19,7 +19,7 @@
  
 <div align="center"> 
   
-  <a href = "mailto:igormoura948@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ilopes.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-moura-lopes-6a319a185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
