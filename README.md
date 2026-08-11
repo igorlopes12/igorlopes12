@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorlopes12&show_icons=true&count_private=true&hide_border=true&title_color=6E3CBC&icon_color=6E3CBC&text_color=c9d1d9&bg_color=0d1117&ring_color=6E3CBC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlopes12&layout=compact&hide_border=true&title_color=6E3CBC&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-olive-xi-59.vercel.app/api?username=igorlopes12&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=6E3CBC&icon_color=6E3CBC&text_color=c9d1d9&bg_color=0d1117&ring_color=6E3CBC" />
+  <img height="180em" src="https://github-readme-stats-olive-xi-59.vercel.app/api/top-langs/?username=igorlopes12&layout=compact&hide_border=true&title_color=6E3CBC&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 ---
