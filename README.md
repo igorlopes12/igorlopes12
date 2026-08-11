@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 **AI / ML / Data**
@@ -57,8 +56,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weaviate-333333?style=for-the-badge&logo=weaviate&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -89,28 +86,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlopes12&layout=compact&hide_border=true&title_color=6E3CBC&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorlopes12&hide_border=true&theme=dark&background=0d1117&stroke=6E3CBC&ring=6E3CBC&fire=6E3CBC&currStreakLabel=6E3CBC" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igorlopes12&theme=onestar&no-frame=true&column=7&margin-w=8" />
-</div>
-
 ---
 
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorlopes12/igorlopes12/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorlopes12/igorlopes12/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/igorlopes12/igorlopes12/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/igorlopes12/igorlopes12/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
